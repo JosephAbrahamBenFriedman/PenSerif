@@ -7,3 +7,5 @@ This font will eternally payless, freely and open.
 I designed seven single-digit hexadecimal numbers, and stored them in E000 to E006. E000 to E006 are designed for hexadecimal, because I think styles of glyphs of latin letters A to F (or a to f) are not suitable for decimal number system numbers 0 to 9. The seventh (E006) is designed for indicating 16 (decimal) in single-digit mode, if you want to describe the value of 16 (decimal) in a single digit, rather than 2-digit 10 (hexadecimal).
 
 Each file named 'PenSerif Italic.otf' is generated from the file named 'Penserif Upright.otf' within the same directory. The name 'Upright' is derived from the term 'upright italics' in [the document of FontForge](http://designwithfontforge.com/en-US/Italic.html).
+
+Caused by I could not upload DNG files that each of them is more than 20 mebibytes as source photos to GitHub, I uploaded them onto [the Internet Archive](https://archive.org/details/penserifsourcephotos_202606).
