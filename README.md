@@ -11,13 +11,23 @@ Each file named 'PenSerif Italic.otf' is generated from the file named 'Penserif
 Caused by I could not upload DNG files that each of them is more than 20 mebibytes as source photos to GitHub, I uploaded them onto [the Internet Archive](https://archive.org/details/penserifsourcephotos_202606).
 
 Thanks to typefaces that influenced glyphs of this font:
+
 I. SimSun
+
 II. Roman (Windows path: %WINDIR%\Fonts\roman.fon)
+
 III. Engraver's Roman
+
 IIII. DSE Typewriter
+
 V. Clarendon
+
 VI. Asphalt Fixed
+
 VII. Century
+
 VIII. Century Schoolbook
+
 IX. Selectric Bookface
+
 X. DFMingLight-B5
