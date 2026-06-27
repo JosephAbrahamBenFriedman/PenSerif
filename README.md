@@ -1,6 +1,6 @@
 PenSerif is the family of a handwritten monospaced serif font.
 
-I love glyphs of [DSE Typewriter](https://github.com/dse/dse-typewriter-font), it is released under [SIL OpenFont License](https://openfontlicense.org/open-font-license-official-text/), which contains text - 'The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license.', I do not accept this text (this is one of reasons I also boycott CC-BY-SA, GPL, and Mozilla Public License, etc), so I have to not use OFL, and DSE Typewriter the font released under OFL. More than ten years recently, I have skills to writing serif-style characters with my hand, and I had an idea, that is saved my handwritten serif characters, so I set up a project to creating a font, and it is just named PenSerif. I want all ones may use this font for any way, and I knew that [public domain is not recognized in many countries](https://opensource.stackexchange.com/questions/15488/the-unlicense-outside-of-countries-that-recognize-the-concept-of-the-public-doma). In order to make PenSerif becoming completely free for all ones, I choosed [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt), because it is a permissive licence and is more applicable than MIT/BSD licences for works other than source codes.
+I love glyphs of [DSE Typewriter](https://github.com/dse/dse-typewriter-font), it is released under [SIL OpenFont License](https://openfontlicense.org/open-font-license-official-text/), which contains text - 'The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license.', I do not accept this text (this is one of reasons I also boycott CC-BY-SA, GPL, and Mozilla Public License, etc), so I have to not use OFL, and DSE Typewriter the font released under OFL. More than ten years recently until the releasion of Version 1 of this font, I have skills to writing serif-style characters with my hand, and I had an idea, that is saved my handwritten serif characters, so I set up a project to creating a font, and it is just named PenSerif. I want all ones may use this font for any way, and I knew that [public domain is not recognized in many countries](https://opensource.stackexchange.com/questions/15488/the-unlicense-outside-of-countries-that-recognize-the-concept-of-the-public-doma). In order to make PenSerif becoming completely free for all ones, I choosed [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt), because it is a permissive licence and is more applicable than MIT/BSD licences for works other than source codes.
 
 This font will eternally payless, freely and open.
 
@@ -9,3 +9,15 @@ I designed seven single-digit hexadecimal numbers, and stored them in E000 to E0
 Each file named 'PenSerif Italic.otf' is generated from the file named 'Penserif Upright.otf' within the same directory. The name 'Upright' is derived from the term 'upright italics' in [the document of FontForge](http://designwithfontforge.com/en-US/Italic.html).
 
 Caused by I could not upload DNG files that each of them is more than 20 mebibytes as source photos to GitHub, I uploaded them onto [the Internet Archive](https://archive.org/details/penserifsourcephotos_202606).
+
+Thanks to typefaces that influenced glyphs of this font:
+I. SimSun
+II. Roman (Windows path: %WINDIR%\Fonts\roman.fon)
+III. Engraver's Roman
+IIII. DSE Typewriter
+V. Clarendon
+VI. Asphalt Fixed
+VII. Century
+VIII. Century Schoolbook
+IX. Selectric Bookface
+X. DFMingLight-B5
