@@ -12,17 +12,17 @@ Caused by I could not upload DNG files that each of them is more than 20 mebibyt
 
 Thanks to typefaces that influenced glyphs of this font:
 
-1. SimSun
+1. [SimSun](https://learn.microsoft.com/en-us/typography/font-list/simsun)
 2. Roman (Windows path: %WINDIR%\Fonts\roman.fon)
-3. Engraver's Roman
+3. [Engraver's Roman BT](https://www.myfonts.com/collections/engravers-roman-font-bitstream)
 4. [DSE Typewriter](https://github.com/dse/dse-typewriter-font)
-5. Clarendon
+5. [Clarendon](https://en.wikipedia.org/wiki/Clarendon_(typeface))
 6. [Asphalt Fixed](https://fontsgeek.com/fonts/Asphalt-Fixed-Regular)
 7. Century
 8. Century Schoolbook
 9. [Selectric Bookface](https://www.creativefabrica.com/product/ibm-selectric-bookface/)
-10. DFMingLight-B5
-11. Macromedia Roman C
-12. Macromedia Roman T
-13. Baskerville
-14. Bell MT 
+10. [DFMingLight-B5](https://www.dynacw.com/en/product/product_download_detail.aspx?fid=68)
+11. [Macromedia RomanC](https://fontpark.com/en/romanc.font)
+12. [Macromedia RomanT](https://fontpark.com/en/romant.font)
+13. [Baskerville Old Face](https://learn.microsoft.com/en-us/typography/font-list/baskerville-old-face)
+14. [Bell MT](https://www.myfonts.com/collections/bell-mt-font-monotype-imaging)
