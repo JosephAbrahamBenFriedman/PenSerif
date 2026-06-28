@@ -12,22 +12,17 @@ Caused by I could not upload DNG files that each of them is more than 20 mebibyt
 
 Thanks to typefaces that influenced glyphs of this font:
 
-I. SimSun
-
-II. Roman (Windows path: %WINDIR%\Fonts\roman.fon)
-
-III. Engraver's Roman
-
-IIII. DSE Typewriter
-
-V. Clarendon
-
-VI. Asphalt Fixed
-
-VII. Century
-
-VIII. Century Schoolbook
-
-IX. Selectric Bookface
-
-X. DFMingLight-B5
+1. SimSun
+2. Roman (Windows path: %WINDIR%\Fonts\roman.fon)
+3. Engraver's Roman
+4. [DSE Typewriter](https://github.com/dse/dse-typewriter-font)
+5. Clarendon
+6. [Asphalt Fixed](https://fontsgeek.com/fonts/Asphalt-Fixed-Regular)
+7. Century
+8. Century Schoolbook
+9. [Selectric Bookface](https://www.creativefabrica.com/product/ibm-selectric-bookface/)
+10. DFMingLight-B5
+11. Macromedia Roman C
+12. Macromedia Roman T
+13. Baskerville
+14. Bell MT 
