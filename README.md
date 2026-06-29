@@ -10,7 +10,7 @@ Each file named 'PenSerif Italic.otf' is generated from the file named 'Penserif
 
 Caused by I could not upload DNG files that each of them is more than 20 mebibytes as source photos to GitHub, I uploaded them onto [the Internet Archive](https://archive.org/details/penserifsourcephotos_202606).
 
-Thanks to typefaces that influenced glyphs of this font:
+Thanks to typefaces that influenced glyphs of this font, not all of them influenced glyphs of the font directly, but when I saw glyphs of some of these typefaces, I think they are same or analogous to other typefaces listed below, and, when there are more and more typefaces use the same style of glyphs, plus I love the style, it gave me powerful supportion to use the style in my font.
 
 1. [SimSun](https://learn.microsoft.com/en-us/typography/font-list/simsun)
 2. Roman (Windows path: %WINDIR%\Fonts\roman.fon)
@@ -26,3 +26,4 @@ Thanks to typefaces that influenced glyphs of this font:
 12. [Macromedia RomanT](https://fontpark.com/en/romant.font)
 13. [Baskerville Old Face](https://learn.microsoft.com/en-us/typography/font-list/baskerville-old-face)
 14. [Bell MT](https://www.myfonts.com/collections/bell-mt-font-monotype-imaging)
+15. [Computer Modern](https://learn.microsoft.com/en-us/typography/font-list/century-schoolbook)
