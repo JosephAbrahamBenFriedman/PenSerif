@@ -18,8 +18,8 @@ Thanks to typefaces that influenced glyphs of this font:
 4. [DSE Typewriter](https://github.com/dse/dse-typewriter-font)
 5. [Clarendon](https://en.wikipedia.org/wiki/Clarendon_(typeface))
 6. [Asphalt Fixed](https://fontsgeek.com/fonts/Asphalt-Fixed-Regular)
-7. Century
-8. Century Schoolbook
+7. [Century](https://en.wikipedia.org/wiki/Century_type_family)
+8. [Century Schoolbook](https://learn.microsoft.com/en-us/typography/font-list/century-schoolbook)
 9. [Selectric Bookface](https://www.creativefabrica.com/product/ibm-selectric-bookface/)
 10. [DFMingLight-B5](https://www.dynacw.com/en/product/product_download_detail.aspx?fid=68)
 11. [Macromedia RomanC](https://fontpark.com/en/romanc.font)
