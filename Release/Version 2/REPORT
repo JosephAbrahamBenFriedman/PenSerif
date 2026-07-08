@@ -1,0 +1,2 @@
+1. Deleted glyph 'j.subs', because there is a same character in Unicode (hexadecimal: 2C7C)
+2. Deleted glyph 'd.subs' in a mistake, the actual glyph that should be deleted is 'd.sups', because there are same characters in Unicode (hexadecimal: 0369, 1D48).
