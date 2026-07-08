@@ -19,7 +19,7 @@ Thanks to typefaces that influenced glyphs of this font, not all of them influen
 5. [Clarendon](https://en.wikipedia.org/wiki/Clarendon_(typeface))
 6. [Asphalt Fixed](https://fontsgeek.com/fonts/Asphalt-Fixed-Regular)
 7. [Century](https://en.wikipedia.org/wiki/Century_type_family)
-8. [Century Schoolbook](https://learn.microsoft.com/en-us/typography/font-list/century-schoolbook)
+8. [Century Schoolbook Monospaced](https://www.myfonts.com/products/century-schoolbook-monospaced-10058-century-schoolbook-435037/)
 9. [Selectric Bookface](https://www.creativefabrica.com/product/ibm-selectric-bookface/)
 10. [DFMingLight-B5](https://www.dynacw.com/en/product/product_download_detail.aspx?fid=68)
 11. [Autodesk RomanC](https://fontpark.com/en/romanc.font)
