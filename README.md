@@ -10,6 +10,12 @@ Each file named 'PenSerif Italic.otf' is generated from the file named 'Penserif
 
 Caused by I could not upload DNG files that each of them is more than 20 mebibytes as source photos to GitHub, I uploaded them onto [the Internet Archive](https://archive.org/details/penserifsourcephotos_202606).
 
+Capital greek alphabets Alpha has two kinds of glyphs, are influenced from:
+https://user.guancha.cn/main/content?id=83506
+https://i.guancha.cn/bbs/2019/02/27/20190227124451525.jpg?imageView2/2/w/500/format/jpg
+https://www.livescience.com/64854-where-pompeii-refugees-fled.html
+https://cdn.mos.cms.futurecdn.net/P5p23iwPUVaabSQ9rKUg5G-970-80.jpg.webp
+
 Thanks to typefaces that influenced glyphs of this font, not all of them influenced glyphs of the font directly, but when I saw glyphs of some of these typefaces, I think they are same or analogous to other typefaces listed below, and, when there are more and more typefaces use the same style of glyphs, plus I love the style, it gave me powerful supportion to use the style in my font.
 
 1. [SimSun](https://learn.microsoft.com/en-us/typography/font-list/simsun)
