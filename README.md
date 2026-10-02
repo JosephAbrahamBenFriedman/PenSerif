@@ -10,7 +10,8 @@ Each file named 'PenSerif Italic.otf' is generated from the file named 'Penserif
 
 Caused by I could not upload DNG files that each of them is more than 20 mebibytes as source photos to GitHub, I uploaded them onto [the Internet Archive](https://archive.org/details/penserifsourcephotos_202606).
 
-Capital greek alphabets Alpha has two kinds of glyphs, are influenced from:
+There are two kinds of glyphs for capital greek letters Alpha, are influenced from:
+
 https://user.guancha.cn/main/content?id=83506
 https://i.guancha.cn/bbs/2019/02/27/20190227124451525.jpg?imageView2/2/w/500/format/jpg
 https://www.livescience.com/64854-where-pompeii-refugees-fled.html
